@@ -1,4 +1,6 @@
 <?php
+// igwen6w@gmail.com
+// 20230603
 class node
 {
     public mixed $value;
